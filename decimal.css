@@ -1,0 +1,46 @@
+input {
+    border: 2px solid black;
+    height: 25px;
+    font-family: Comic Sans, Comic Sans MS, cursive;
+}
+#d,#b,#o,#h {
+    margin-top: 25px;
+}
+#d {
+    position:absolute;
+    left: 3%;
+    top: 20px;
+}
+#b {
+    position:absolute;
+    left: 3%;
+    top: 60px;
+}
+#o {
+    position:absolute;
+    left: 3%;
+    top: 100px;
+}
+#h {
+    position:absolute;
+    left: 3%;
+    top: 140px;
+}
+#button {
+    position:absolute;
+    left: 22%;
+    top: 55px;
+    height:50px;
+    width:120px;
+    font-size:21px;
+    background-color: #FFA500;
+    font-family: Comic Sans, Comic Sans MS, cursive;
+}
+p {
+    position:relative;
+    left:16.4%;
+    top:25px;
+    margin: 20px;
+    font-size:15px;
+    font-family: Comic Sans, Comic Sans MS, cursive;
+}
